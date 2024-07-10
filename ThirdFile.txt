@@ -1,1 +1,1 @@
-Hello Everyone !! This is third file added after initializing the folder using git init.
+Hello Everyone !! This is third file .
