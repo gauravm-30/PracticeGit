@@ -5,3 +5,6 @@ Hello This is for practice of git reset !!!
 
 
 Done git reset !!
+
+
+Done git reset  2!!
