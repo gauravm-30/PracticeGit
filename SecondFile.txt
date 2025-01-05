@@ -1,1 +1,7 @@
 Hello Everyone !! This is second file added 
+
+Hello This is for practice of git reset !!! 
+
+
+
+Done git reset !!
